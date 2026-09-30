@@ -1,3 +1,4 @@
+#This script is part of the work arXiv:2606.25600 - Two-dimensional Hyperbolic RNN neural quantum state by HL Dao.
 
 from lorentz_util_loading import *
 
